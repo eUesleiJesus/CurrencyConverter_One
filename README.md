@@ -14,7 +14,7 @@ This Java program fetches real-time exchange rates from the exchangerate-api.com
 **How to Use:**
 
 1. **Obtain an API Key:** Sign up for a free account at [https://www.exchangerate-api.com/](https://www.exchangerate-api.com/) to get your API key.
-2. **Replace Placeholder:** Replace `"71ef133c08aae15f995c85ef"` with your actual API key in the `API_KEY` constant.
+2. **Replace Placeholder:** Replace `"API_KEY"` with your actual API key in the `API_KEY` constant.
 3. **Compile and Run:** Compile and run the Java code.
 4. **Enter Details:** The program will prompt you to enter:
     - The amount to convert.
